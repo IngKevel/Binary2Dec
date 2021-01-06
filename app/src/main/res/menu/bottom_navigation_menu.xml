@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemBinary"
+        android:icon="@drawable/binnumbers"
+        android:title="Binario" />
+
+    <item
+        android:id="@+id/itemDecimal"
+        android:icon="@drawable/decnumbers"
+        android:title="Decimal" />
+
+</menu>
